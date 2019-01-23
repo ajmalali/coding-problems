@@ -1,3 +1,5 @@
+# Author: Ajmal Ali
+
 from random import randint
 
 # Generates random list and k value
