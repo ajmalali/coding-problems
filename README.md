@@ -2,6 +2,12 @@
 This repository is for practicing interesting coding interview problems. These questions are meant to test your ability to use different Data Structures and Algorithm techniques effectively. Any problem should be solved within 30-40 mins max.
 
 # Contribute to this repository
+<ul>
+  <li>Fork this repository.</li>
+  <li>Go to any problem and read the markdown for the Question.</li>
+  <li>Solve it in a language different from the ones already in the repository.</li>
+  <li>Save/Commit your solution.</li>
+  <li>Send a pull request for this commit only.</li>
+</ul>
 
-Go to any problem, read the markdown for the question, solve the problem in any language. More instructions will follow.
-
+<strong>Please respect other people and do not delete or move anyone's solution</strong>
