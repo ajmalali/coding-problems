@@ -10,4 +10,4 @@ This repository is for practicing interesting coding interview problems. These q
   <li>Send a pull request for this commit only.</li>
 </ul>
 
-<strong>Please respect other people and do not delete or move anyone's solution</strong>
+<strong>Please respect other people and do not delete or move anyone's solution.</strong>
