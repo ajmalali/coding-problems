@@ -6,6 +6,7 @@ This repository is for practicing interesting coding interview problems. These q
   <li>Fork this repository.</li>
   <li>Go to any problem and read the markdown for the Question.</li>
   <li>Solve it in a language different from the ones already in the repository.</li>
+  <li>Be sure to include your name as a comment in the solution.</li>
   <li>Save/Commit your solution.</li>
   <li>Send a pull request for this commit only.</li>
 </ul>
