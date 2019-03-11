@@ -41,11 +41,8 @@ public class P10226 {
 			if (tests != 0) {
 				System.out.println();
 			}
-
 		}
 		
 		scan.close();
-
 	}
-
 }
