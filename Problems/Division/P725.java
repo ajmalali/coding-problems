@@ -32,7 +32,6 @@ public class P725 {
 					break;
 				}
 				
-				
 				if (!allDifferent(den, num)) {
 					continue;
 				}
