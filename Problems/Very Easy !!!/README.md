@@ -1,0 +1,1 @@
+Link to the problem: https://uva.onlinejudge.org/external/105/10523.pdf
