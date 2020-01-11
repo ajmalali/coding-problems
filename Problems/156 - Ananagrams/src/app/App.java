@@ -38,5 +38,7 @@ public class App {
         for (String w : ananagrams) {
             System.out.println(w);
         }
+
+        scan.close();
     }
 }
